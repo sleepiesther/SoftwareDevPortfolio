@@ -2,8 +2,8 @@
 
 Welcome to my portfolio, this will show some of the projects I have worked on this year
 
- ##
- Code for mastermind:
+ ## Pig
+ Code for pig:
  ```python
  import random
 
