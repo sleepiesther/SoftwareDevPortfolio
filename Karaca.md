@@ -8,3 +8,6 @@ def encryption(word):
 
 encryption(input("Enter in a word you would like to encrypt\n"))
 ```
+
+### Output 
+![Karaca output example](images/Karaca%20screenshot.png)
