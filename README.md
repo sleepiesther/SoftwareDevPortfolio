@@ -67,3 +67,6 @@ while True:
         else:
             i1Or2=1
  ```
+
+ ### Output
+ ![Pig output](./Pig%20screenshot.png)
